@@ -1,1 +1,0 @@
-Hi from 3.txt!
